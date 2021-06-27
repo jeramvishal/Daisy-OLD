@@ -63,7 +63,7 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [𝙑𝙄𝙎𝙃𝘼_𝘽𝘽𝙔](https://t.me/c/1590794489/167)
+Hello there, I'm [𝙑𝙄𝙎𝙃𝘼_𝘽𝘽𝙔](https://t.me/c/1590794489/169)
 
 I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group
 
@@ -86,7 +86,7 @@ buttons = [
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://t.me/c/1590794489/167)
+*Main Commands :* [🤖](https://t.me/c/1590794489/169)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
