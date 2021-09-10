@@ -65,7 +65,8 @@ from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 PM_START_TEXT = """
 Hello there, I'm [𝙑𝙄𝙎𝙃𝘼_𝘽𝘽𝙔](https://t.me/c/1590794489/169)
 
-I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group
+I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group 
+I was made by @Hyeteleram 
 
 ✪ Make sure you read *INFO* Section Below ✪ 
 """
@@ -100,7 +101,7 @@ HELP_STRINGS = f"""
 
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-You can donate to the original writer's of the Base code,
+You can donate to the helpers to writer's of the Base code,
 Support them  [Inuka](t.me/InukaASiTH),[Jason](t.me/imjanindu),"""
 
 IMPORTED = {}
@@ -360,8 +361,8 @@ def DaisyX_about_callback(update, context):
     query = update.callback_query
     if query.data == "aboutmanu_":
         query.message.edit_text(
-            text=f"*😍 Hi again!  The name's {dispatcher.bot.first_name} 😍 \n\nAs  You I'm a next generational group management bot developed by Infinity_Bots.* "
-            f"\n\n 🔥 Join [Infinity_Bots](https://t.me/Infinity_Bots) To Keep Yourself Updated About {dispatcher.bot.first_name} 🔥"
+            text=f"*😍 Hi again!  The name's {dispatcher.bot.first_name} 😍 \n\nAs  You I'm a next generational group management bot developed by ODIN BOTS.* "
+            f"\n\n 🔥 Join [Infinity_Bots](https://t.me/ODINBOTS) To Keep Yourself Updated About {dispatcher.bot.first_name} 🔥"
             f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
             f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://telegra.ph/file/473cc17913393959e0667.jpg)"
             f"\n\n👇 You Can Know More About Me By Clicking The Below Buttons 👇",
